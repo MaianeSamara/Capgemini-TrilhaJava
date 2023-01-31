@@ -1,4 +1,25 @@
-h2{
-    color: blue;
+h2 {
+    color: black;
+}
+
+p {
+    color: yellowgreen;
+}
+
+.titulo-aula {
     text-decoration: underline;
+}
+
+.texto-azul {
+    color: blue;
+}
+
+.texto-vermelho {
+    color: red;
+}
+#titulo-primeira-aula {
+    text-decoration: none;
+}
+#titulo-segunda-aula {
+    color: brown;
 }
