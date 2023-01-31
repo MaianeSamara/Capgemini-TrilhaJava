@@ -1,5 +1,9 @@
+main h1 {
+    color: red;
+}
+
 h2 {
-    color: black;
+    color: green;
 }
 
 p {
@@ -22,4 +26,16 @@ p {
 }
 #titulo-segunda-aula {
     color: brown;
+}
+
+.texto-vermelho .comentario {
+    color: blue;
+}
+
+.texto-vermelho.comentario {
+    color: green;
+}
+
+.comentario {
+    color: red;
 }
