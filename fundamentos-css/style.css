@@ -8,6 +8,6 @@ main p {
     text-align: left;
 }
 
-h1, h2 {
-    text-align: center;
+#titulo-primeira-aula {
+    text-decoration: underline;
 }
