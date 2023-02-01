@@ -10,6 +10,7 @@ main p {
 
 #titulo-primeira-aula {
     text-decoration: underline;
+    text-transform: uppercase;
 }
 
 #titulo-segunda-aula {
