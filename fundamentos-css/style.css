@@ -3,4 +3,5 @@ main {
     src: url('Mermaid1001.ttf');
     font-style: italic;
     font-weight: bold;
+    font-variant: small-caps;
 }
