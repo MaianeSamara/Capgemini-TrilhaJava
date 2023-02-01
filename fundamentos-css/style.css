@@ -11,3 +11,7 @@ main p {
 #titulo-primeira-aula {
     text-decoration: underline;
 }
+
+#titulo-segunda-aula {
+    letter-spacing: 0.7rem;
+}
