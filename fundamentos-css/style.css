@@ -1,3 +1,4 @@
-main {
-    font-family: fantasy, Times New Roman;
+@font-face {
+    font-family: Mermaid1001;
+    src: url('Mermaid1001.ttf');
 }
