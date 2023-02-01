@@ -2,4 +2,5 @@ main {
     font-family: Mermaid1001;
     src: url('Mermaid1001.ttf');
     font-style: italic;
+    font-weight: bold;
 }
