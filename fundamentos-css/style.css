@@ -1,11 +1,13 @@
-main {
+main p {
     font-family: 'Times New Roman', Times, serif;
   /*font-style: italic;
     font-weight: bold;
     font-variant: small-caps;
     font-size: 1.1rem; */
+    text-indent: 2rem;
+    text-align: left;
 }
 
-p {
-    text-indent: 2rem;
+h1, h2 {
+    text-align: center;
 }
